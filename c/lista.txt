@@ -1,0 +1,9 @@
+2    Mazda   3       110_lei/zi 
+4    Opel    Corsa   105_lei/zi 
+3    Audi    A4      150_lei/zi 
+5    Audi    A3      125_lei/zi
+6    BMW     M3      200_lei/zi
+7    Audi    Q5      195_lei/zi
+8    Dacia   Duster  130_lei/zi
+ 
+
